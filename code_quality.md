@@ -2,19 +2,20 @@
 
 ## Code style
 
-* https://styleci.io/
+* [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+* [StyleCi](https://styleci.io)
 
 ## Metrics
 
-* phploc
-* http://www.phpmetrics.org/
-* https://phpmd.org/rules/codesize.html
-* https://pdepend.org/documentation/software-metrics/cyclomatic-complexity.html
+* [Code metrics](https://en.wikipedia.org/wiki/Software_metric)
+* [PhpLoc](https://github.com/sebastianbergmann/phploc)
+* [PhpMetrics](http://www.phpmetrics.org)
+* [PhpMd](https://phpmd.org/rules/codesize.html)
+* [PDepend](https://pdepend.org/documentation/software-metrics/cyclomatic-complexity.html)
 
 ## Programming principles
 
 * [Code smells](https://en.wikipedia.org/wiki/Code_smell)
-* Code smells
 * Dry
 * Kiss
 * Yagni
@@ -22,7 +23,9 @@
 
 ## Process
 
+* Roadmaps and project documentation
 * Design & architect 
 * Unit tests
-
+* Database migrations and seeds
+* Delploy
 
