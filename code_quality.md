@@ -27,5 +27,9 @@
 * Design & architect 
 * Unit tests
 * Database migrations and seeds
-* Delploy
+* Remote repo & autodelploy
+
+## Tools list
+
+* https://github.com/exakat/php-static-analysis-tools
 
