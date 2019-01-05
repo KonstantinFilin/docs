@@ -8,7 +8,7 @@
 * Комментарии
 * Вывод имени программы
 * Константы и переменные
-    - Magic constants (__FILE__, __LINE__, __CLASS__, __FUNCTION__, __CLASS__)
+    - Magic constants (____FILE____, ____LINE____, ____CLASS____, ____FUNCTION____, ____CLASS____)
 * Predefined constants
 * Переменные в реальной жизни
     - Показания счётчика
