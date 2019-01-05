@@ -8,6 +8,7 @@
 * Комментарии
 * Вывод имени программы
 * Константы и переменные
+    - Magic constants (__FILE__, __LINE__, __CLASS__, __FUNCTION__, __CLASS__)
 * Predefined constants
 * Переменные в реальной жизни
     - Показания счётчика
@@ -37,11 +38,30 @@
 * Булевы ( && || ! скобки )
 * Арифметические, сравнение и присваивание ( + - * / % ** += -= *= /= .= == === > < >= <= != !=== ++ --)
 * Строковые ( . .= )
+* Функции
+    - empty, isset
+    - *val(), is_*()
+    - gettype
 
 # Строки
 
 * Объявление строк
-* Длина строки
+* Строковые функции
+    - strlen / mb_strlen
+    - implode / explode
+    - echo / print / printf / sprintf / fprintf
+    - htmlspecialchars
+    - nl2br
+    - number_format
+    - str_replace
+    - str_repeat
+    - str_split
+    - strpos
+    - strrev
+    - trim / ltrim / rtrim
+    - strstr / strcmp / strncmp / strpos / stripos / substrcount
+    - striptags / stripslashes
+    - ucfirst / ucwords / strtoupper / strtolower / mb_strtoupper
 * Перебор символов в строке
 * Поиск символа в строке
 * Поиск количества совпадений символа в строке
@@ -55,7 +75,7 @@
     - Любой символ и произвольное количество символов
     - Повторение
     - Модификаторы
-    
+
 # Массивы
 
 * Объявление
@@ -69,6 +89,24 @@
 * Пересечение/разница двух массивов
 * Удаление дубликатов
 * Двумерные и многомерные массивы
+* Функции
+    - array_chunk
+    - array_columm
+    - array_combine
+    - array_diff
+    - array_fill / range
+    - array_filter
+    - array_key_exists
+    - array_keys / array_key_first / array_key_last
+    - array_map
+    - array_merge / +
+    - array_map / array_walk
+    - array_reverse
+    - array_unique
+    - count
+    - in_array
+    - list
+    - *sort
 
 ## Упражнения
 
@@ -174,4 +212,4 @@
 ## Functions
 * Arch
 * Images
-* 
+* cURL
