@@ -1,5 +1,7 @@
 # Code quality
 
+* [PhpStan](https://github.com/phpstan/phpstan)
+
 ## Code style
 
 * [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
