@@ -35,3 +35,8 @@
 
 * https://github.com/exakat/php-static-analysis-tools
 
+## Monitoring
+
+* [Zabbix](https://www.zabbix.com/)
+* [icinga](https://icinga.com/)
+
