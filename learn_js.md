@@ -17,3 +17,16 @@
 * Form validation
 * Ajax 
 * Inline Form
+
+# Debug #
+
+* console.log()
+* console.group() / console.groupEnd()
+* console.trace()
+* console.count()
+* console.time() / console.timeEnd()
+* console.assert()
+* console.profile()
+* console.clear()
+* console.memory
+* console.table()
